@@ -12,8 +12,7 @@ This is a pretend version of Airbnb — where people can list homes and others c
 - **DevOps Wizard** – Helps send the website into the sky (internet).
 - **Team Leader** – Makes sure everyone works together like superheroes!
 
-## 🧰 Tools We Use (Tech Stack)
-
+## 🧰 Technology Stack
 - **Django** – The engine that runs the show!
 - **PostgreSQL** – Like a big notebook that stores data.
 - **GraphQL** – A fancy way to ask for only the data we need.
