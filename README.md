@@ -39,7 +39,7 @@ This is a pretend version of Airbnb — where people can list homes and others c
 ### 💳 Payments
 - how much, how, and when they paid
 
-## 🌟 Features
+## 🌟Feature Breakdown
 
 - **Login/Register** – Make your own account!
 - **List Homes** – Show your home to the world.
